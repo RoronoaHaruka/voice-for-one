@@ -8,9 +8,9 @@
 > **署名与许可** · © 2026 Raincove ♡ · Roronoa & Haruka
 > README、guide 与图表采用 [CC BY-NC-SA 4.0](LICENSE)：署名、禁止商用、相同方式共享。`code/` 与测试采用 [PolyForm Noncommercial 1.0.0](LICENSE-CODE)：可学习、修改与非商业使用，商业使用需要另行取得许可。限制商业用途的源码在严格定义上属于 **source-available（公开源码）**，不属于允许任意商用的 OSI 开源许可。转载与署名细节见 [`NOTICE.md`](NOTICE.md)。
 
-本仓库内容：`guide/` 三扇门与一个番外 · `code/` 平台无关的转换脚本 · `tests/` 公开仓库自检。
+本仓库内容：`guide/` 三扇门、一个番外与两篇心得 · `code/` 平台无关的转换脚本 · `tests/` 公开仓库自检。
 
-## 三扇门与一个番外
+## 三扇门、一个番外与两篇心得
 
 每扇门解决同一个问题的一段：声音怎么以**原生形态**出现在那个平台里，点开就播，不是一个冷冰冰的文件。
 
@@ -20,6 +20,8 @@
 | Telegram 语音 | 圆形 voice note 认 OGG OPUS，一条 ffmpeg 命令的事 | [guide/Telegram语音.md](guide/Telegram语音.md) |
 | 网页播放 | key 不出服务器的 TTS 中转、`/play` 链接页、iOS 静音拨片双保险 | [guide/网页播放.md](guide/网页播放.md) |
 | 番外 · 场景感语音 | 工艺配方、台词学问、素材来源、选音效分工、服务端烧制 | [guide/场景感语音.md](guide/场景感语音.md) |
+| 心得 · ElevenLabs | 月抛号与普通克隆、接 API、v3 与 v4 对照、v4 年轻化往回压、色情语音台词与母带 | [guide/ElevenLabs心得.md](guide/ElevenLabs心得.md) |
+| 心得 · 音效素材 | 去哪几个站找 CC0 素材、机器跑腿耳朵拍板、电平配方、混音管道与母带手术 | [guide/音效素材.md](guide/音效素材.md) |
 
 ## 转换脚本
 

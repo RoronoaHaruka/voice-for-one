@@ -19,6 +19,7 @@ class PublicRepositoryTests(unittest.TestCase):
             "LICENSE", "LICENSE-CODE", "NOTICE.md", "README.md",
             "guide/企微语音条.md", "guide/Telegram语音.md",
             "guide/网页播放.md", "guide/场景感语音.md",
+            "guide/ElevenLabs心得.md", "guide/音效素材.md",
             "code/to_amr.py", "code/to_ogg_opus.py",
         ):
             self.assertTrue((ROOT / relative).is_file(), relative)
